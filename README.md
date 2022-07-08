@@ -4,9 +4,7 @@
 - 🌱 I’m currently learning NodeJs and C#
 - 👯 I’m looking to collaborate on my Tools project!
 
-https://mimadev.com
-
-Link to [site name](https://mimadev.com)
+Link to [MiMa Website](https://mimadev.com)
 
 <!--
 **MiMaDevDiscord/MiMaDevDiscord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
